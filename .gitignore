@@ -1,0 +1,11 @@
+# 编译产物 / 生成物
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+
+# 中间文件（体积大，可由 arrange.py 重新生成）
+stems.npz
+*.wav
+renders/
