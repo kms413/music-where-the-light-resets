@@ -70,6 +70,6 @@ python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 本仓库的全部内容——代码、渲染出的音频、乐谱与图像——以 **GNU Affero General
 Public License v3.0 或更新版本** 授权，Copyright (C) 2026 kms413。
 
-详见 [LICENSE](LICENSE)。简单说：可以自由使用、修改、分发，也可以商用；
+详见 [LICENSE](LICENSE)（协议原文）与 [NOTICE](NOTICE)（版权声明）。简单说：可以自由使用、修改、分发，也可以商用；
 但分发衍生作品时必须同样以 AGPL 开放源码，如果把修改版做成网络服务供人使用，
 也必须向使用者提供源码。
