@@ -67,9 +67,9 @@ python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 
 ## License
 
-代码用 MIT；音乐、乐谱与图像用 CC BY 4.0（署名即可商用）。
-详见 [LICENSE](LICENSE)。
+本仓库的全部内容——代码、渲染出的音频、乐谱与图像——以 **GNU Affero General
+Public License v3.0 或更新版本** 授权，Copyright (C) 2026 kms413。
 
----
-
-如果这首曲子让你想起某个下午，欢迎拿去做视频配乐、改编或重编曲。
+详见 [LICENSE](LICENSE)。简单说：可以自由使用、修改、分发，也可以商用；
+但分发衍生作品时必须同样以 AGPL 开放源码，如果把修改版做成网络服务供人使用，
+也必须向使用者提供源码。

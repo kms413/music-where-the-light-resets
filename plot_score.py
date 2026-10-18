@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+# 《光落之处》 Where the Light Rests — Copyright (C) 2026 kms413
+# Licensed under the GNU Affero General Public License, version 3 or later.
+# See LICENSE for the full text.  This program comes with NO WARRANTY.
 """Draw the piano roll of 《光落之处》 to inspect the counterpoint."""
 import json
 import numpy as np

@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+# 《光落之处》 Where the Light Rests — Copyright (C) 2026 kms413
+# Licensed under the GNU Affero General Public License, version 3 or later.
+# See LICENSE for the full text.  This program comes with NO WARRANTY.
 """Export the score (score.json) as a tempo-mapped MIDI file."""
 import json
 import struct
